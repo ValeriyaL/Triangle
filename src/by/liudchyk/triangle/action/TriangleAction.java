@@ -53,7 +53,7 @@ public class TriangleAction {
         }
     }
 
-    public boolean isRightTriangle(Triangle triangle){
+    public boolean isRightTriangle(Triangle triangle) throws TriangleException{
         if(!isTriangle(triangle.getPointA(),triangle.getPointB(),triangle.getPointC())){
             throw new TriangleException();
         }

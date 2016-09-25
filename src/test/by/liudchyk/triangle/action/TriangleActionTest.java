@@ -92,21 +92,21 @@ public class TriangleActionTest {
     }
 
     @Test
-    public void checkIsRightTriangle1() {
+    public void checkIsRightTriangle1() throws TriangleException {
         Triangle triangle = new Triangle(new Point(1, 1), new Point(1, 3), new Point(3, 1));
         boolean actual = triangleAction.isRightTriangle(triangle);
         Assert.assertTrue(actual);
     }
 
     @Test
-    public void checkIsRightTriangle2(){
+    public void checkIsRightTriangle2() throws TriangleException {
         Triangle triangle = new Triangle(new Point(-5,0), new Point(7,9), new Point(5,-5));
         boolean actual = triangleAction.isRightTriangle(triangle);
         Assert.assertFalse(actual);
     }
 
     @Test(expected = TriangleException.class)
-    public void checkIsRightTriangle3(){
+    public void checkIsRightTriangle3() throws TriangleException {
         Triangle triangle = new Triangle(new Point(1,1), new Point(1,3), new Point(1,2));
         boolean actual = triangleAction.isRightTriangle(triangle);
         Assert.assertEquals(false,actual);

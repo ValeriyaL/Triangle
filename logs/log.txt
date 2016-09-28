@@ -1,0 +1,30 @@
+20:55:43.179 [main] ERROR by.liudchyk.triangle.creator.TriangleCreator - Wrong data in yor file
+20:55:43.240 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerates triangle
+20:55:43.240 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:55:43.246 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:55:43.251 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:57:41.392 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+20:57:41.394 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:57:41.394 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:57:41.394 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:58:17.112 [main] ERROR by.liudchyk.triangle.creator.TriangleCreator - Wrong data in yor file
+20:58:49.884 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+20:58:49.886 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:58:49.886 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:58:49.886 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:59:36.733 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+20:59:37.757 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:59:39.435 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+20:59:39.435 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:00:03.434 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+21:00:07.024 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:00:11.857 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:00:11.858 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:00:51.027 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+21:00:52.195 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:00:55.722 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:01:08.263 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:01:45.348 [main] INFO  by.liudchyk.triangle.runner.Main - Degenerate triangle
+21:01:46.676 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:01:55.363 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle
+21:01:57.427 [main] INFO  by.liudchyk.triangle.action.TriangleAction - Degenerate triangle

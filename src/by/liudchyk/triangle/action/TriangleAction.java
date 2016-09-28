@@ -37,7 +37,6 @@ public class TriangleAction {
         if(isTriangle(triangle.getPointA(),triangle.getPointB(),triangle.getPointC())) {
             return Math.sqrt(semiPerimeter * (semiPerimeter - sideAB) * (semiPerimeter - sideBC) * (semiPerimeter - sideAC));
         }else{
-            LOG.info("Degenerate triangle");
             return 0;
         }
     }

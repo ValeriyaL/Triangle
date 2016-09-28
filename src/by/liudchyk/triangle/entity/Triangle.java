@@ -25,4 +25,13 @@ public class Triangle {
     public Point getPointC() {
         return pointC;
     }
+
+    @Override
+    public String toString() {
+        return "Triangle{" +
+                "pointA=" + pointA +
+                ", pointB=" + pointB +
+                ", pointC=" + pointC +
+                '}';
+    }
 }

@@ -31,7 +31,7 @@ public class TriangleCreator {
                 Matcher m = p.matcher(temp);
                 Point[] trPoints = new Point[3];
                 for (int i = 0; i < 3; i++) {
-                    boolean bool = m.find();
+                    m.find();
                     int x = Integer.valueOf(m.group());
                     m.find();
                     int y = Integer.valueOf(m.group());
